@@ -4441,20 +4441,6 @@ img.mfp-img {
 			   </p>
 
    		</div>
-
-   		<div class="col-four tab-full">
-
-   			<div class="icon">
-   				<i class="icon-phone"></i>
-   			</div>
-
-   			<h5>Hotline</h5>
-
-   			<p>
-			   	&#077;&#111;&#098;&#105;&#108;&#101;:&#032;(&#053;&#054;&#049;)&#032;&#056;&#049;&#056;&#045;&#050;&#051;&#050;&#055;
-			   </p>
-
-   		</div>
    		
    	</div> <!-- /contact-info -->
 		
